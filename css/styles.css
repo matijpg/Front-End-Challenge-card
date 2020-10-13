@@ -165,7 +165,7 @@ body{
 
    .card__bgimage{
       border-top-right-radius: 1rem;
-      border-bottom-left-radius: 1rem;
+      border-bottom-left-radius: 0rem;
    }
 
    .card__content-text{
